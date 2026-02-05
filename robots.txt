@@ -1,0 +1,12 @@
+# Dolnośląski Discord - robots.txt
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dolnoslaskie.online/sitemap.xml
